@@ -1,2 +1,3 @@
 # famat-oficina
-Oficina
+Oficina ministrada para Faculdade de Matemática - Campus de Breves/UFPA
+
